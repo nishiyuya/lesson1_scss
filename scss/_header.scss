@@ -1,0 +1,19 @@
+.header{
+    &_title{
+        font-size: 40px;
+        text-align: center;
+        margin: auto;
+        padding: 50px 0 0 0;
+        border-bottom: 1px black solid;
+        width: 95%;
+        &_sab{
+            font-size: 24px;
+            text-align: center;
+            margin: auto;
+            padding: 5px 0;
+            border-bottom: 1px rgb(128, 128, 128) solid;
+            width: 95%;
+        }
+    }
+}
+
